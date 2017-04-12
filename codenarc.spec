@@ -2,7 +2,7 @@
 %global oname CodeNarc
 Name:          codenarc
 Version:       0.24.1
-Release:       0 #2%{?dist}
+Release:       2%{?dist}
 Summary:       Groovy library that provides static analysis features for Groovy code
 Group:         Development/Java
 License:       ASL 2.0
